@@ -21,7 +21,7 @@ I work on **Android, Termux, Java, C/C++, Python**, and mobile-first development
 ## Connect
 
 - **GitHub:** [@black1771](https://github.com/black1771)
-- **X:** [@vedattelli20](https://x.com/vedattelli20)
+- **X:** [@vedattelli18](https://x.com/vedattelli18)
 
 ---
 
